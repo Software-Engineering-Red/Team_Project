@@ -1,8 +1,8 @@
 ## Setting up personal environment
 
 ### Visual Studio
-1. Check if Visual Studio 2022 is installed with the required .NET MAUI templates, if so then you have all of the required setup done for Visual Studio on Windows.
-2. If you do not have Visual Studio installed, look at the steps [here](https://github.com/edinburgh-napier/SET09102/blob/main/practicals/01_setup.md#recommendations)
+1. Check if Visual Studio 2022 is installed with the required .NET MAUI templates (You can do this in Visual Studio by searching for the .NET MAUI App templates when creating a new project), if they're avaliable to use then you have finished all of the required setup done for Visual Studio.
+2. If you do not have Visual Studio installed, look at the steps [here](https://github.com/edinburgh-napier/SET09102/blob/main/practicals/01_setup.md#recommendations) to install with the .NET MAUI templates
 
 ### Personal GitHub Portfolio
 1. Follow the link [here](https://github.com/edinburgh-napier/SET09102_portfolio/tree/main) to get to the template for the personal portfolio, use the template to create a new personal repository of it.
